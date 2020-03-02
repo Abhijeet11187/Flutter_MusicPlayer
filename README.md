@@ -5,7 +5,7 @@ Flutter Music Player
 
 ## Getting Started
 
-flute_music_player : For fetching the music files in the Mobile or System
+flute_music_player : For fetching the music files in the Mobile or System.
                      Error with this is it cannot cannot playes the Actual music.It cannot get the path.
                      
 audioplayers   : For Playing the audio in app
