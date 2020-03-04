@@ -15,3 +15,4 @@ Flutter Icon is also added.
 ## Note
 For this project we have to migrate to the AndroidX
 link : https://medium.com/@carlosAmillan/fixing-androidx-error-in-flutter-f35e18d5925
+### Do Migration from second window in andriod Studio
