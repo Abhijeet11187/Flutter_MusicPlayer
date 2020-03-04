@@ -11,3 +11,7 @@ flute_music_player : For fetching the music files in the Mobile or System.
 audioplayers   : For Playing the audio in app
 
 Flutter Icon is also added.
+
+## Note
+For this project we have to migrate to the AndroidX
+link : https://medium.com/@carlosAmillan/fixing-androidx-error-in-flutter-f35e18d5925
